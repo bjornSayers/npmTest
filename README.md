@@ -1,0 +1,2 @@
+# npmTest
+npm publish test
